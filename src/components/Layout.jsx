@@ -22,6 +22,8 @@ const navigation = [
   {
     title: 'Core concepts',
     links: [
+      { title: 'Organisation', href: '/docs/organisation' },
+      { title: 'Authentication', href: '/docs/authentication' },
       { title: 'Removal method', href: '/docs/removal-method' },
       {
         title: 'Removal partner',
@@ -39,7 +41,7 @@ const navigation = [
   },
   {
     title: 'API reference',
-    links: [{ title: 'API refrence subititle', href: '/docs/api-reference' }],
+    links: [{ title: 'Open API schema', href: '/docs/open-api-schema' }],
   },
 ]
 
