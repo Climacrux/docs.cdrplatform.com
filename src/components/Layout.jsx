@@ -14,7 +14,8 @@ const navigation = [
   {
     title: 'Introduction',
     links: [
-      { title: 'Getting started', href: '/' },
+      { title: 'Background', href: '/' },
+      { title: 'Getting started', href: '/docs/getting-started' },
       { title: 'Installation', href: '/docs/installation' },
     ],
   },
