@@ -93,7 +93,7 @@ More detailed information is available in our [docs for authentication](/docs/au
 
 To receive a price request we need to supply some information:
 
-- The currency we would like the price in (in our example: `USD`).
+- The currency we would like the price in (in our example: `usd`).
 - The unit of weight we are sending (in our example: `kg`).
 - Which removal methods we would like to use and the amount of each of them.
 
