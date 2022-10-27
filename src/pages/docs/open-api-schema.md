@@ -3,7 +3,7 @@ title: Open API schema
 description: The CDR Platform APIs provide documentation via an OpenAPI 3.0 schema with UIs available in both Swagger and Redoc.
 ---
 
-The CDR platform API is documented via the OpenAPI 3.0 schema.
+The CDR platform API is documented via the OpenAPI 3.0 schema and is available via both the Swagger and Redoc user interfaces.
 
 {% quick-links %}
 
