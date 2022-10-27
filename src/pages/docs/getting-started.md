@@ -38,7 +38,7 @@ Currently we do not offer any language-specific SDKs so we recommend using commo
 
 Some possible libraries:
 
-| Language     | Libraries to make URLs                                                                                                                                               |
+| Language     | Libraries or packages to make HTTP requests                                                                                                                          |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Python 3     | [`urllib.request` (builtin)](https://docs.python.org/3/library/urllib.request.html#module-urllib.request) or[`requests`](https://requests.readthedocs.io/en/latest/) |
 | Go           | [`net/http` (builtin)](https://pkg.go.dev/net/http)                                                                                                                  |
