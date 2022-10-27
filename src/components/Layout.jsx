@@ -22,7 +22,7 @@ const navigation = [
     title: 'Core concepts',
     links: [
       { title: 'Organisation', href: '/docs/organisation' },
-      { title: 'Authentication', href: '/docs/authentication' },
+      { title: 'Authentication and Security', href: '/docs/authentication-and-security' },
       { title: 'Pricing and billing', href: '/docs/pricing-and-billing' },
       { title: 'Removal method', href: '/docs/removal-method' },
       { title: 'Removal partner', href: '/docs/removal-partner' },

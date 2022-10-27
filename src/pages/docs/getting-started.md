@@ -74,7 +74,7 @@ $ # Make a request to calculate the CDR price
 $ http POST https://api.cdrplatform.com/v1/cdr/price/
 ```
 
-More detailed information is available in our [Open API schema](/docs/open-api-schema/).
+More detailed information is available in our [Open API schema](/docs/open-api-schema).
 
 ### Using the API key
 
@@ -85,7 +85,7 @@ $ http POST https://api.cdrplatform.com/v1/cdr/price/ \
     'Authorization:Api-Key {{ your_api_key }}'
 ```
 
-More detailed information is available in our [docs for authentication](/docs/authentication/).
+More detailed information is available in our [docs for authentication](/docs/authentication-and-security).
 
 ### Making a price request
 
@@ -150,7 +150,7 @@ We make our cost as transparent as possible. You can clearly see & understand th
 In the case that the cost of carbon removal goes down (e.g. processes becoming more efficient or bulk-buying discounts), we pass those savings directly on to you as soon as they happen.
 {% /callout %}
 
-More detailed information is available in our [docs for pricing and billing](/docs/pricing-and-billing/).
+More detailed information is available in our [docs for pricing and billing](/docs/pricing-and-billing).
 
 ### Making a request to purchase carbon removal
 
@@ -185,7 +185,7 @@ You have now successfully requested to buy some carbon removal. At the end of th
 Once we have confirmed the payment of your invoice we shall order the CO₂ removal from our partners and issue you with unique certificates for every removal request as proof of your commitment to our planet.
 {% /callout %}
 
-More detailed information is available in our [docs for removal requests](/docs/removal-request/).
+More detailed information is available in our [docs for removal requests](/docs/removal-request).
 
 ---
 
