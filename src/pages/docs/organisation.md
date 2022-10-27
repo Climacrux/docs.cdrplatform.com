@@ -5,7 +5,7 @@ description: An organisation is a collection of users that can make price and pu
 
 An organisation is a collection of users that can make price and purchase requests for carbon dioxide removal (CDR). Each organisation needs to provide a billing contact that the invoices will be sent to and so that they can purchase the requested CDR. Learn more about pricing and billing [here](/docs/pricing-and-billing).
 
-{% callout title="You should know!" %}
+{% callout title="An organisation of one" %}
 Of course it is also okay to have only one user in an organisation.
 {% /callout %}
 
