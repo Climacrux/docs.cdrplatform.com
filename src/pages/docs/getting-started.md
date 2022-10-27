@@ -47,6 +47,8 @@ Some possible libraries:
 | Java         | [`HttpClient` (builtin)](https://docs.oracle.com/en/java/javase/11/docs/api/java.net.http/java/net/http/HttpClient.html)                                             |
 | Command line | [`curl`](https://curl.se/) or [`httpie`](https://httpie.io/)                                                                                                         |
 
+---
+
 ## Basic usage
 
 In our test case we want to know the price of removing 100kg of CO₂ with a combination of kelp sinking and bio-oil injection.

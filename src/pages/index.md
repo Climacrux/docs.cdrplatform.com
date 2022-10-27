@@ -4,13 +4,15 @@ pageTitle: Carbon dioxide removal API
 description: Easily remove carbon dioxide through a variety of methods with Climacrux's CDR API.
 ---
 
-What is CDR, why do we need it, and how can you easily make it an integral party of your business? {% .lead %}
+What is CDR, why do we need it, and how can you easily make it an integral part of your business? {% .lead %}
 
 ---
 
 ## What is CDR?
 
 Carbon dioxide removal (CDR), CO₂ removal or carbon removal refers to the human-driven extraction of the greenhouse gas CO₂ from the atmosphere combined with its permanent storage. The goal of carbon removal procedures is to decrease atmospheric carbon dioxide levels and to mitigate or even reverse man-made global warming.
+
+---
 
 ## Why do we need CDR?
 
@@ -20,13 +22,17 @@ More and more people are recognising that CDR is a crucial part of reaching the 
 
 Across the world governments and businesses are setting themselves net-zero targets. These involve both reducing emissions but also removing any unavoidable emissions (hence the term "net zero emissions").
 
+---
+
 ## Why integrate CDR into your business?
 
-Apart from the moral responsibility to try to do our part to fix the climate, offering a sustainable option to your customers can also act a differentiator to your competitors with some positive marketing benefits.
+Apart from the moral responsibility to try to do our part to fix the climate, offering a sustainable option to your customers can also act as a differentiator to your competitors with some positive marketing benefits.
 
 Reaching net-zero doesn't have to involve a lot of effort or high costs. Instead we want to make it as easy and affordable as possible to make 'little-but-often' contributions to fight the climate crisis and achieve your net-zero goals.
 
 If you need some inspiration why not check out our [example use cases](#some-example-use-cases) below.
+
+---
 
 ## Isn't this just carbon credits?
 
@@ -39,6 +45,8 @@ Carbon removal takes carbon dioxide out of the atmosphere and captures it in lon
 {% callout title="CDR is not a substitute for avoiding emissions!" %}
 Carbon removal is not a substitute for avoiding emissions in the first place. However we need time to reach a zero-emissions future so we must accelerate the adoption of CDR while simultaneously drastically reducing emissions.
 {% /callout %}
+
+---
 
 ## Some example use cases
 
