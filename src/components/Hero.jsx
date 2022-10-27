@@ -8,18 +8,20 @@ import { HeroBackground } from '@/components/HeroBackground'
 import blurCyanImage from '@/images/blur-cyan.png'
 import blurIndigoImage from '@/images/blur-indigo.png'
 
-const codeLanguage = 'javascript'
-const code = `export default {
-  strategy: 'predictive',
-  engine: {
-    cpus: 12,
-    backups: ['./storage/cache.wtf'],
-  },
-}`
+const codeLanguage = 'shell'
+const code = `http POST https://api.cdrplatform.com/v1/cdr/ \\
+  'Authorization:Api-Key {{ your_api_key }}' \\
+  weight_unit=kg \\
+  currency=usd \\
+  items:='[
+    {"method_type": "forestation", "cdr_amount": 50},
+    {"method_type": "bio-oil", "cdr_amount": 50}
+  ]' 
+`
 
 const tabs = [
-  { name: 'cache-advance.config.js', isActive: true },
-  { name: 'package.json', isActive: false },
+  { name: 'remove-100kg-carbon-dioxide.sh', isActive: true },
+  // { name: 'package.json', isActive: false },
 ]
 
 function TrafficLightsIcon(props) {
@@ -49,13 +51,13 @@ export function Hero() {
             />
             <div className="relative">
               <p className="inline bg-gradient-to-r from-indigo-200 via-sky-400 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
-                Remove your carbon footprint.
+                An API to remove carbon dioxide.
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
-                Remove carbon dioxide straightforward with the CDR API.
+                Reach your net-zero goals by integrating CO₂ removal directly into your business.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/">Get started</Button>
+                <Button href="/docs/getting-started">Get started</Button>
                 <Button
                   href="https://github.com/Climacrux/api.cdrplatform.com"
                   variant="secondary"
