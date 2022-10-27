@@ -3,3 +3,13 @@
 @import './prism.css';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+
+/* 
+ * A dirty override because by default this class sets a dark 
+ * colour which means it doesn't adjust properly in dark mode.
+ */
+.prose :where(strong):not(:where([class~="not-prose"] *)) {
+    color: unset;
+    font-weight: 600;
+}
