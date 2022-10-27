@@ -67,6 +67,21 @@ $ # This is a comment
 $ echo "This is a command"
 ```
 
+### What are we building?
+
+Below is the final request that we will be explaining:
+
+```shell
+$ http POST https://api.cdrplatform.com/v1/cdr/price/ \
+    'Authorization:Api-Key {{ your_api_key }}' \
+    currency=usd \
+    weight_unit=kg \
+    items:='[
+      {"method_type": "bio-oil", "cdr_amount": 50},
+      {"method_type": "kelp-sinking", "cdr_amount": 50}
+    ]'
+```
+
 ### Choose your endpoint
 
 We want to make a request to find out how much it costs to purchase some CO₂ removal.
@@ -96,6 +111,8 @@ To receive a price request we need to supply some information:
 - The currency we would like the price in (in our example: `usd`).
 - The unit of weight we are sending (in our example: `kg`).
 - Which removal methods we would like to use and the amount of each of them.
+  - 50kg of CDR via bio-oil injection.
+  - 50kg of CDR via kelp sinking.
 
 ```shell
 $ http POST https://api.cdrplatform.com/v1/cdr/price/ \
@@ -157,6 +174,10 @@ More detailed information is available in our [docs for pricing and billing](/do
 ### Making a request to purchase carbon removal
 
 Now that we know how much our selected removal is going to cost, we can go ahead and make the purchase. The information required is exactly the same, all we need to do is switch from the pricing to the purchase endpoint.
+
+From the pricing endpoint: `https://api.cdrplatform.com/v1/cdr/price/`
+
+To the CDR purchasing endpoint: `https://api.cdrplatform.com/v1/cdr/`
 
 ```shell
 $ http POST https://api.cdrplatform.com/v1/cdr/ \
