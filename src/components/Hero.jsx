@@ -11,8 +11,8 @@ import blurIndigoImage from '@/images/blur-indigo.png'
 const codeLanguage = 'shell'
 const code = `http POST https://api.cdrplatform.com/v1/cdr/ \\
   'Authorization:Api-Key {{ your_api_key }}' \\
-  weight_unit=kg \\
   currency=usd \\
+  weight_unit=kg \\
   items:='[
     {"method_type": "forestation", "cdr_amount": 50},
     {"method_type": "bio-oil", "cdr_amount": 50}
