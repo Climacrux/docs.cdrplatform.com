@@ -52,6 +52,10 @@ Carbon removal is not a substitute for avoiding emissions in the first place. Ho
 
 Nobody knows your business better than you but we have included a few potential use cases to inspire you on your journey to net-zero.
 
+### Footprint calculator or environmental consultancies
+
+After your customers have calculated their carbon footprint using your tool or service, you could integrate carbon removal as an easy next-step to meet their net-zero targets.
+
 ### E-commerce, marketplaces & transactions
 
 Do you ship products? Your customers may be interested in having the option to remove the footprint of their product or even just the shipping.
@@ -64,7 +68,7 @@ In fact any type of transaction can help support CDR:
 
 ### Corporate finances
 
-The accounting department is often the single source of truth in a business. Why not connect with them to remove the emissions of all corporate travel or events?
+The accounting department is often the single source of truth in a business. Why not connect with them to remove the emissions of all corporate travel & events or the footprint of their employees?
 
 {% callout title="Got some more ideas?" %}
 If you have another idea about how or where CDR could be integrated we'd love to add it to this page. You can open an issue or submit a PR to [change these docs](https://github.com/climacrux/docs.cdrplatform.com) or contact us directly at: [hello@cdrplatform.com](mailto:hello@cdrplatform.com).
