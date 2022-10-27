@@ -5,15 +5,31 @@ description: Learn about Climacrux, the CDR Platform, our mission, our vision an
 
 ## Climacrux
 
+Climacrux LLC was formed in 2020 with the aim to have use technology to have a positive impact on the planet.
+
 ### Mission
 
 ### Vision
 
+We envision a world where:
+
+-
+
 ### Team
+
+#### Fabienne Muff
+
+A hottie.
+
+#### Ewan Jones
+
+A nottie.
 
 ---
 
 ## CDR Platform
+
+CDR Platform is a project from Climacrux LLC to make it easy to integrate carbon removal throughout your business.
 
 ---
 
