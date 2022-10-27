@@ -14,11 +14,11 @@ Carbon dioxide removal (CDR), CO₂ removal or carbon removal refers to the huma
 
 ## Why do we need CDR?
 
-Across the world governments and businesses are setting net-zero targets
-
 With their latest report, the IPCC has noted that reductions alone are unlikely to be enough to limit a global temperature increase to 1.5ºC. Instead we, as a global population, will need to invest into carbon dioxide removals to capture and store CO₂ from the atmosphere.
 
 More and more people are recognising that CDR is a crucial part of reaching the goal of net-zero emissions.
+
+Across the world governments and businesses are setting themselves net-zero targets. These involve both reducing emissions but also removing any unavoidable emissions (hence the term "net zero emissions").
 
 ## Why integrate CDR into your business?
 
@@ -57,3 +57,7 @@ In fact any type of transaction can help support CDR:
 ### Corporate finances
 
 The accounting department is often the single source of truth in a business. Why not connect with them to remove the emissions of all corporate travel or events?
+
+{% callout title="Got some more ideas?" %}
+If you have another idea about how or where CDR could be integrated we'd love to add it to this page. You can open an issue or submit a PR to [change these docs](https://github.com/climacrux/docs.cdrplatform.com) or contact us directly at: [hello@cdrplatform.com](mailto:hello@cdrplatform.com).
+{% /callout %}
