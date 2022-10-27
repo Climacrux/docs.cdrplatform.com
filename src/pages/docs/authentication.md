@@ -5,32 +5,31 @@ description:
 
 ## API keys for authentication
 
-- API key is linked to organisation
+To use the CDR API the user needs an API key. Each API key is linked to an organisation and serves to authenticate the organisation.
 
 ---
 
 ## Getting an API key
 
-- you will only see your API key once at the time of creation
+Request an API key via following form: PLACEHOLDER-API-KEY-FORM
 
-  {% callout title="You should know!" %}
-  This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
-  {% /callout %}
+{% callout title="You should know!" %}
+You will only see your API key once at the time of creation. So make sure you save it.
+{% /callout %}
 
 ---
 
-## Usage of API key
+## Using the API key
 
 ---
 
 ## Security
 
 {% callout type="warning" title="Oh no! Something bad happened!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
+Make sure you keep the API secret. Don't share it with anyone or post it publicly online.
 {% /callout %}
 
-- warning block: keeping API key secret
-- we do not know the API key
+We don't know your API key either.
 
 ---
 
@@ -41,3 +40,5 @@ This is what a disclaimer message looks like. You might want to include inline `
 ### What happens if my API key goes public?
 
 ### Can I have multiple API keys?
+
+Yes, your organisation can create and use several API keys, which will all be linked to it.

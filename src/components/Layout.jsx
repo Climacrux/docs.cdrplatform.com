@@ -24,19 +24,13 @@ const navigation = [
     links: [
       { title: 'Organisation', href: '/docs/organisation' },
       { title: 'Authentication', href: '/docs/authentication' },
+      { title: 'Pricing and billing', href: '/docs/pricing-and-billing' },
       { title: 'Removal method', href: '/docs/removal-method' },
-      {
-        title: 'Removal partner',
-        href: '/docs/removal-partner',
-      },
-      {
-        title: 'Removal request',
-        href: '/docs/removal-request',
-      },
-      {
-        title: 'Removal timeline',
-        href: '/docs/removal-timeline',
-      },
+      { title: 'Removal partner', href: '/docs/removal-partner' },
+      { title: 'Removal request', href: '/docs/removal-request' },
+      { title: 'Removal certificate', href: '/docs/removal-certificate' },
+      { title: 'Removal timeline', href: '/docs/removal-timeline' },
+      { title: 'Transparency', href: '/docs/transparency' },
     ],
   },
   {
