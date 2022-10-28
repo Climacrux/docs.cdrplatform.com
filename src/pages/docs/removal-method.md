@@ -13,11 +13,11 @@ Carbon dioxide removal (CDR), CO₂ removal or carbon removal refers to the huma
 
 To qualify as carbon removal method we evaluate possible solutions based on the following criteria:
 
-| Criteria                     | Description                                                                                                                                                                                                    |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Result in negative emissions | The removal method must capture and store more carbon dioxide than is produced by it's construction and operation.                                                                                             |
-| Long term storage            | Captured CO₂ must be locked away for the long-term. Any captured gas that is used for industrial purposes (e.g. for carbonated drinks) is released back into the atmosphere, therefore not negative emissions. |
-| Be additional                | The process must not have taken place anyway without the purchasing of the carbon removal. Essentially meaning that this method only works because we are purchasing from it.                                  |
+| Criteria               | Description                                                                                                                                                                                                    |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Net negative emissions | The removal method must capture and store more carbon dioxide than is produced by it's construction and operation.                                                                                             |
+| Long term storage      | Captured CO₂ must be locked away for the long-term. Any captured gas that is used for industrial purposes (e.g. for carbonated drinks) is released back into the atmosphere, therefore not negative emissions. |
+| Additionality          | The process must not have taken place anyway without the purchasing of the carbon removal. Essentially meaning that this method only works because we are purchasing from it.                                  |
 
 These points are generally calculated and assessed in complex life-cycle analysis - that is often verified by independent third parties - so that we can be sure a removal method matches the above criteria.
 
