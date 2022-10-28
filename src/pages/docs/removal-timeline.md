@@ -59,28 +59,28 @@ As described, partner capacity and removal method can influence delivery timelin
 
 ### Bio-oil injection
 
-| Stage        | Duration                     |
-| ------------ | ---------------------------- |
-| Kick-off     | 0.5-2 years after purchase.  |
-| CDR complete | Weeks-months after kick-off. |
+| Stage        | Duration                        |
+| ------------ | ------------------------------- |
+| Kick-off     | 0.5-2 years after purchase.     |
+| CDR complete | Weeks or months after kick-off. |
 
 ### Forestation
 
-| Stage        | Duration                  |
-| ------------ | ------------------------- |
-| Kick-off     | 1-2 years after purchase. |
-| CDR complete | 5 years after kick-off.   |
+| Stage        | Duration                        |
+| ------------ | ------------------------------- |
+| Kick-off     | Weeks or months after purchase. |
+| CDR complete | 5 years after kick-off.         |
 
 ### Olivine
 
-| Stage        | Duration                  |
-| ------------ | ------------------------- |
-| Kick-off     | 1-2 years after purchase. |
-| CDR complete | 50 years after kick-off.  |
+| Stage        | Duration                 |
+| ------------ | ------------------------ |
+| Kick-off     | Months after purchase.   |
+| CDR complete | 50 years after kick-off. |
 
 ### Direct air capture and storage (DACS)
 
 | Stage        | Duration                  |
 | ------------ | ------------------------- |
 | Kick-off     | 1-2 years after purchase. |
-| CDR complete | 5-6 years after kick-off. |
+| CDR complete | 2-3 years after kick-off. |
