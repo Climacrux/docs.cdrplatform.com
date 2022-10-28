@@ -45,7 +45,7 @@ For every invoice issued a flat fee of 10 USD/EUR/GBP/CHF is added.
 
 We bundle all your [removal requests](/docs/removal-request) over the month and then issue an invoice for that month in the start of the following month. On each invoice the flat fee will be added only once - not per removal request.
 
-The invoice will be sent to the organisations billing contact and only after the invoice has been paid will we order the CDR from our partners.
+The invoice will be sent to the organisations billing contact and only after the invoice has been paid will we order the CDR from our partners and [issue a certificate](/docs/removal-certificate) for each removal request.
 
 A detailed breakdown of all removal requests that are part of an invoice is available upon request.
 
