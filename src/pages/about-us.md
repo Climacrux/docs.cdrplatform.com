@@ -23,9 +23,9 @@ We believe:
 
 1. People have the right - they are even obliged - to know the impact their actions cause on the living planet and climate. Understanding ones impact is the first step towards a more responsible life.
 1. People should live climate responsible but still find enjoyment and fulfillment in their lives. Only you can decide what living a happy life means to you and how far you can go.
-1. Guilt tripping is not the way. Pointing fingers will not have the same power as positive emotions and will only cause de-motivation to do anything at all.
-1. All avoided emissions, no matter how small the amount, will help to slow. stop and reverse climate change.
-1. Compensating caused emissions is a good interim solution. Technology and humans are not ready yet to live emission free but we don't have time left. Until we get there, taking out unavoidable emissions will be a great help.
+1. Guilt tripping is not the way. Pointing fingers will not have the same power as positive emotions and will only cause demotivation to do anything at all.
+1. All avoided emissions, no matter how small the amount, will help to slow down, stop and reverse climate change.
+1. Removing caused emissions is a good interim solution. Technology and humans are not ready yet to live emission free but we don't have time left. Until we get there, taking out unavoidable and historic emissions will be a great help.
 
 ### Team
 
