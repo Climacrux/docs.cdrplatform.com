@@ -53,6 +53,18 @@ Website: [https://www.edenprojects.org/](https://www.edenprojects.org/)
 
 Plants trees and restores forests around the world helping rejuvenate natural ecosystems and capturing carbon dioxide.
 
+#### How many trees?
+
+We purchase the planting of trees from Eden Reforestation but how do we turn this into kg of CO₂ removed?
+
+- We use an average CO₂ sequestration rate of 10.875kg of CO₂/tree/year.
+- We only take the first 5 years of the trees' carbon sequestration into account. What gets sequestered after this is a gift to our planet and we don’t sell that.
+- To mitigate chances of loss due to disease or fires we double plant (meaning we buy double the number of trees that we need to).
+
+Therefore for every two trees we purchase from Eden Reforestation we assign a removal value of 54.375kg (10.875kg \* 5 years).
+
+More information on the [logic and references behind these numbers](https://carbonremoved.com/learn/forestation/) is available via our sister company - Carbon Removed.
+
 ---
 
 ### greenSand
