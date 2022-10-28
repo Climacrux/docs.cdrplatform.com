@@ -4,6 +4,7 @@ import { useRouter } from 'next/router'
 import clsx from 'clsx'
 
 import { Hero } from '@/components/Hero'
+import { NewsletterInput } from '@/components/NewsletterInput'
 import { Logo, Logomark } from '@/components/Logo'
 import { MobileNavigation } from '@/components/MobileNavigation'
 import { Navigation } from '@/components/Navigation'
@@ -213,6 +214,7 @@ export function Layout({ children, title, tableOfContents }) {
               </header>
             )}
             <Prose>{children}</Prose>
+            <NewsletterInput />
           </article>
           <dl className="mt-12 flex border-t border-slate-200 pt-6 dark:border-slate-800">
             {previousPage && (
