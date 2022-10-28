@@ -25,7 +25,7 @@ Complete information on the required and optional fields of all endpoints is ava
 
 In the request body you can choose a combination of methods and request a different amount for each of them. The amount can go to as low as 1 gram. You can't list the same removal method twice and also you have to provide 1 removal method minimum.
 
-A unique transaction ID will be returned for your records and can be used to lookup specific removal requests in the future.
+An unique transaction ID will be returned for your records and can be used to lookup specific removal requests in the future.
 
 ### Example of purchasing carbon removal
 
@@ -58,10 +58,10 @@ You can optionally link a removal request to your customer information, enabling
 
 | Field                      | Required? | Description                                                                                                                     |
 | -------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| `client_reference_id`      | OPTIONAL  | A unique ID provided by you to link a removal request to your customer (e.g. a customer ID or order ID).                        |
+| `client_reference_id`      | OPTIONAL  | An unique ID provided by you to link a removal request to your customer (e.g. a customer ID or order ID).                       |
 | `certificate_display_name` | OPTIONAL  | The name that should be displayed on the [removal certificate](/docs/removal-certificate) that will be issued for this request. |
 
-### Example linking a removal request to a customer
+### Example of linking a removal request to a customer
 
 Extending our example [from earlier](#example-of-purchasing-carbon-removal), now we are purchasing on behalf of our customer "Jane Doe" who purchased carbon removal from us to remove the footprint of their shipping in order number "3923200221752".
 
