@@ -25,7 +25,7 @@ Complete information on the required and optional fields of all endpoints is ava
 
 In the request body you can choose a combination of methods and request a different amount for each of them. The amount can go to as low as 1 gram. You can't list the same removal method twice and also you have to provide 1 removal method minimum.
 
-An unique transaction ID will be returned for your records and can be used to lookup specific removal requests in the future.
+A unique transaction ID will be returned for your records and can be used to lookup specific removal requests in the future.
 
 ### Example of purchasing carbon removal
 
