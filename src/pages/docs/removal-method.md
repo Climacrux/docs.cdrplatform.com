@@ -73,6 +73,4 @@ Over time the olivine reacts with water and the air to sequester CO₂ and produ
 
 ### Biochar
 
-Like bio-oil, biochar is produced by heating biomass without oxygen (pyrolysis) where it turns into a solid, coal-like substance. Biochar can then be ground into a find powder and spread over fields having a double effect.
-
-Not only is the CO₂ that was captured by the photosynthesizing biomass locked away but it can also act as a nutritional supplement to the soil improving crop growth.
+Like bio-oil, biochar is produced by heating biomass without oxygen (pyrolysis) where it turns into a solid, coal-like substance. The produced biochar can then be used to lock away carbon dioxide in long-term storage.
