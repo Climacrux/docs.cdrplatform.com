@@ -21,7 +21,7 @@ To qualify as carbon removal method we evaluate possible solutions based on the 
 
 These points are generally calculated and assessed in complex life-cycle analysis - that is often verified by independent third parties - so that we can be sure a removal method matches the above criteria.
 
-{% callout  title="Making sure negative emissions really are negative" %}
+{% callout title="Making sure negative emissions really are negative" %}
 All negative emissions purchased result from _after_ the removal of any emissions from the construction and operation of a method. e.g. if a removal method sequesters 8 tonnes of carbon dioxide but it needed to generate 3 tonnes to do so, only the remaining 5 tonnes are available to purchase.
 {% /callout %}
 
@@ -41,6 +41,6 @@ Trees naturally sequester carbon dioxide to convert into what they are made of -
 
 ### Bio-oil underground injection
 
-### Enhanced weathering (e.g. Olivine distribution)
+### Enhanced weathering (Olivine distribution)
 
 ### Biochar
