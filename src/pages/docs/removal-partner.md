@@ -1,45 +1,15 @@
 ---
-title: Removal partner
-description:
+title: Working with a diverse set of removal partners
+description: CDR Platform connects your business to a portfolio of reputable carbon dioxide removers.
 ---
 
-We work with reputable partners using a variety of processes to create negative emissions. Currently each method has one partner that delivers the CDR for us.
+We work with reputable partners using a variety of processes to create negative emissions. Currently each method has one partner that delivers the CDR for you.
 
-- Link to timeline
+{% callout title="How long does it take?" %}
+Different removal methods have different delivery times. e.g. once bio-oil is injected, the carbon is captured; however it takes a tree 5 years to grow and sequester the requested CO₂.
 
-## Charm Industrial
-
-PLACEHOLDER LOGO
-
-Method: Bio-oil underground injection
-
-Website: [https://charmindustrial.com/](https://charmindustrial.com/)
-
-PLACEHOLDER SHORT DESCRIPTION
-
----
-
-## Eden Reforestation
-
-PLACEHOLDER LOGO
-
-Method: Forestation
-
-Website: [https://charmindustrial.com/](https://charmindustrial.com/)
-
-PLACEHOLDER SHORT DESCRIPTION
-
----
-
-## Climeworks
-
-PLACEHOLDER LOGO
-
-Method: Direct air capture and storage
-
-Website: [https://charmindustrial.com/](https://charmindustrial.com/)
-
-PLACEHOLDER SHORT DESCRIPTION
+More detailed information can be found in our docs for the [removal timeline](/docs/removal-timeline).
+{% /callout %}
 
 ---
 
@@ -47,20 +17,56 @@ PLACEHOLDER SHORT DESCRIPTION
 
 PLACEHOLDER LOGO
 
-Method: Kelp sinking (Ocean based method)
+Method: [Kelp sinking (Ocean based method)](/docs/removal-method#kelp-sinking)
 
-Website: [https://charmindustrial.com/](https://charmindustrial.com/)
+Website: [https://www.runningtide.com/](https://www.runningtide.com/)
 
-PLACEHOLDER SHORT DESCRIPTION
+Grows natural kelp forests in the ocean that capture CO₂ as part of photosynthesis. Eventually the kelp sinks to the bottom of the ocean where the high pressures slow/stop the decomposition and the carbon dioxide is stored.
 
 ---
 
-## GreenSand
+## Charm Industrial
 
 PLACEHOLDER LOGO
 
-Method: Olivine sand distribution (Enhanced weathering)
+Method: [Bio-oil underground injection](/docs/removal-method#bio-oil-underground-injection)
 
 Website: [https://charmindustrial.com/](https://charmindustrial.com/)
 
-PLACEHOLDER SHORT DESCRIPTION
+Heats waste bio-mass to very high temperatures without oxygen (pyrolysis) turning the bio-mass into bio-oil. This bio-oil is then injected underground into deep caverns across the United States where it remains for millennia.
+
+---
+
+## Climeworks
+
+PLACEHOLDER LOGO
+
+Method: [Direct air capture and storage](/docs/removal-method#direct-air-capture-and-storage-dacs)
+
+Website: [https://climeworks.com/](https://climeworks.com/)
+
+Uses large fans and filters to capture carbon dioxide in Iceland before pumping it underground into Basalt rock where the CO₂ naturally reacts and turns into stone.
+
+---
+
+## Eden Reforestation
+
+PLACEHOLDER LOGO
+
+Method: [Forestation](/docs/removal-method#forestation)
+
+Website: [https://www.edenprojects.org/](https://www.edenprojects.org/)
+
+Plants trees and restores forests around the world helping rejuvenate natural ecosystems and capturing carbon dioxide.
+
+---
+
+## greenSand
+
+PLACEHOLDER LOGO
+
+Method: [Enhanced weathering (Olivine sand distribution)](/docs/removal-method#enhanced-weathering-olivine-distribution)
+
+Website: [https://greensand.com/en](https://greensand.com/en)
+
+Distributes tonnes of olivine sand throughout Europe that reacts with air & rain water and naturally sequesters carbon dioxide into silicate and carbonates.
