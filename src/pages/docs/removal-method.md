@@ -33,14 +33,34 @@ There is no "silver bullet" or single method that has the potential to reverse t
 
 ### Forestation
 
-Trees naturally sequester carbon dioxide to convert into what they are made of - biomass.
+Trees naturally sequester carbon dioxide to convert into what they are made of - biomass. As long as the tree stands (i.e. does not burn or die and decompose), the carbon dioxide is locked out of the atmosphere. Trees also have the added benefit of providing natural ecosystems that can support local wildlife and communities.
+
+We must be careful to plant only native species (no mono-cultures) and ensure that there is no deforestation happening before planting trees.
 
 ### Direct air capture and storage (DACS)
 
+Direct air capture uses large fans to pull ambient air over filters that capture carbon dioxide. This highly concentrated carbon dioxide can then be stored to produce negative emissions.
+
+Storage can be pumping the gas underground into empty caverns however these need to be monitored to make sure the CO₂ does not leak back into the atmosphere. An alternative way is to pump CO₂ into basalt rock where it naturally reacts, turning into solid stone - naturally stable this does not need any long-term monitoring.
+
 ### Kelp sinking
+
+By seeding natural buoys with macroalgae (seaweed/kelp) and floating them into the ocean, the macroalgae can grow in the surface waters and capture carbon dioxide via photosynthesis. Over time the macroalgae grow, eventually getting so heavy that they sink to the deepest depths of the ocean. Here the pressure from the water slows/stops decomposition so the CO₂ remains locked away for thousands of years.
 
 ### Bio-oil underground injection
 
-### Enhanced weathering (Olivine distribution)
+Waste biomass is typically burned or left to decompose resulting in the already captured CO₂ returning to the atmosphere. However by heating the waste-biomass to high temperatures (>500ºC) without oxygen - a process called "fast pyrolysis" - it is possible to turn it into bio-oil.
+
+Bio-oil is a liquid similar to crude oil but due to certain qualities is a poor fuel substitute. But by pumping it into large, underground wells it can make excellent geological storage keeping the carbon locked away for millennia.
+
+### Enhanced weathering (olivine distribution)
+
+The mineral olivine reacts naturally with atmospheric CO₂. When amplified this process is a carbon dioxide removal method called "enhanced weathering". It involves grinding olivine to a fine sand (to increase the surface area), spreading the sand (for example on walking paths) and waiting.
+
+Over time the olivine reacts with water and the air to sequester CO₂ and produce stable silicates.
 
 ### Biochar
+
+Like bio-oil, biochar is produced by heating biomass without oxygen (pyrolysis) where it turns into a solid, coal-like substance. Biochar can then be ground into a find powder and spread over fields having a double effect.
+
+Not only is the CO₂ that was captured by the photosynthesizing biomass locked away but it can also act as a nutritional supplement to the soil improving crop growth.
