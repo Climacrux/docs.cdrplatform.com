@@ -8,7 +8,7 @@ description: CDR Platform connects your business to a portfolio of reputable car
 We work with reputable partners using a variety of processes to create negative emissions. Currently each method has one partner that delivers the CDR for you.
 
 {% callout title="How long does it take?" %}
-Different removal methods have different delivery times. e.g. once bio-oil is injected, the carbon is captured; however it takes a tree 5 years to grow and sequester the requested CO₂ (the tree will continue to sequester CO₂ after 5 years, but we don't sell that anymore as we rather produce more negative emissions than we sell to stay on the save side).
+Different removal methods have different delivery times. e.g. once bio-oil is injected, the carbon is captured; however it takes a tree 5 years to grow and sequester the requested CO₂ (the tree will continue to sequester CO₂ after 5 years, but we don't sell that anymore as we rather produce more negative emissions than we sell to stay on the safe side).
 
 More detailed information can be found in our docs for the [removal timeline](/docs/removal-timeline).
 {% /callout %}
