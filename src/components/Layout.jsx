@@ -41,7 +41,13 @@ const navigation = [
   },
   {
     title: 'Help and Support',
-    links: [{ title: 'Contact Us', href: '/contact-us' }],
+    links: [
+      { title: 'Contact Us', href: '/contact-us' },
+      {
+        title: 'Submit a GitHub issue',
+        href: '/help-and-support/submit-an-issue',
+      },
+    ],
   },
   {
     title: 'Our company',
