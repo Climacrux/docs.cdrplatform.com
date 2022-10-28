@@ -155,15 +155,15 @@ HTTP/1.1 201 Created
 
 The costs returned are in the lowest denominator of our selected currency (in our example US dollar cents) so to understand what we have got back:
 
-| Name                                     | Cost   |
-| ---------------------------------------- | ------ |
-| Cost of CDR via bio-oil injection        | $30    |
-| Cost of CDR via kelp-sinking             | $12.50 |
-| Fees for this request                    | $3.70  |
-| Total cost of removal (excl. fees)       | $42.50 |
-| Total cost for this request (incl. fees) | $46.20 |
+| Name                                         | Cost       |
+| -------------------------------------------- | ---------- |
+| Cost of CDR via bio-oil injection            | $30        |
+| Cost of CDR via kelp-sinking                 | $12.50     |
+| Fees for this request                        | $3.70      |
+| Total cost of removal (excl. fees)           | $42.50     |
+| **Total cost for this request (incl. fees)** | **$46.20** |
 
-{% callout title="An explanation on our fees" %}
+{% callout title="An explanation of our fees" %}
 We make our cost as transparent as possible. You can clearly see & understand the cost of removal (charged by our partners) and our markup (the fees). These fees cover currency conversions, the running of our business and marketing to encourage more people and businesses to purchase carbon removal.
 
 In the case that the cost of carbon removal goes down (e.g. processes becoming more efficient or bulk-buying discounts), we pass those savings directly on to you as soon as they happen.
