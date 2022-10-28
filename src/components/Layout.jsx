@@ -40,6 +40,10 @@ const navigation = [
     links: [{ title: 'Open API schema', href: '/docs/open-api-schema' }],
   },
   {
+    title: 'Help and Support',
+    links: [{ title: 'Contact Us', href: '/contact-us' }],
+  },
+  {
     title: 'Our company',
     links: [
       { title: 'About Us', href: '/about-us' },
