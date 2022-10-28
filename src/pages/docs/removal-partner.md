@@ -1,5 +1,5 @@
 ---
-title: Partnering with companies removing CO₂
+title: Our partner companies removing CO₂
 description: CDR Platform connects your business to a portfolio of reputable carbon dioxide removers.
 ---
 
@@ -8,7 +8,7 @@ description: CDR Platform connects your business to a portfolio of reputable car
 We work with reputable partners using a variety of processes to create negative emissions. Currently each method has one partner that delivers the CDR for you.
 
 {% callout title="How long does it take?" %}
-Different removal methods have different delivery times. e.g. once bio-oil is injected, the carbon is captured; however it takes a tree 5 years to grow and sequester the requested CO₂.
+Different removal methods have different delivery times. e.g. once bio-oil is injected, the carbon is captured; however it takes a tree 5 years to grow and sequester the requested CO₂ (the tree will continue to sequester CO₂ after 5 years, but we don't sell that anymore as we rather produce more negative emissions than we sell to stay on the save side).
 
 More detailed information can be found in our docs for the [removal timeline](/docs/removal-timeline).
 {% /callout %}
@@ -41,7 +41,7 @@ Method: [Direct air capture and storage](/docs/removal-method#direct-air-capture
 
 Website: [https://climeworks.com/](https://climeworks.com/)
 
-Uses large fans and filters to capture carbon dioxide in Iceland before pumping it underground into Basalt rock where the CO₂ naturally reacts and turns into stone.
+Uses large fans and filters to capture carbon dioxide in Iceland before pumping it underground into basaltic rock formations where the CO₂ naturally reacts and turns into stone.
 
 ---
 
@@ -63,13 +63,13 @@ We purchase the planting of trees from Eden Reforestation but how do we turn thi
 
 Therefore for every two trees we purchase from Eden Reforestation we assign a removal value of 54.375kg (10.875kg \* 5 years).
 
-More information on the [logic and references behind these numbers](https://carbonremoved.com/learn/forestation/) is available via our sister company - Carbon Removed.
+More information on the [logic and references behind these numbers](https://carbonremoved.com/learn/forestation/) is available via our sister project - Carbon Removed.
 
 ---
 
 ### greenSand
 
-Method: [Enhanced weathering (Olivine sand distribution)](/docs/removal-method#enhanced-weathering-olivine-distribution)
+Method: [Enhanced weathering (olivine sand distribution)](/docs/removal-method#enhanced-weathering-olivine-distribution)
 
 Website: [https://greensand.com/en](https://greensand.com/en)
 
