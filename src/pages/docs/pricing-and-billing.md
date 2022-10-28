@@ -9,7 +9,7 @@ Removing carbon dioxide from the atmosphere is an expensive process. To remove y
 
 The carbon removal cost consists of the sum of the cost to remove the amounts of CDR with the methods of your choice and goes to our removal partners without us taking a cut. The Climacrux fees consist of a variable and a fixed part - these cover currency conversion fees; taxes; business running costs - hosting, licenses, administration, webpage maintenance and customer support; product improvement - partner acquisition, adding and improving features; and spreading the word to make a bigger impact.
 
-In the response of the [price request API](/docs/api-reference) we transparently provide the cost breakdown as well as the total cost of the CDR you requested.
+In the response of the [price request API](/docs/open-api-schema) we transparently provide the cost breakdown as well as the total cost of the CDR you requested.
 
 {% callout title="Fees" %}
 A pricing request will include the removal cost and variable fees however will **not** include the fixed fee. This is only charged upon issuance of an invoice, not per request.
