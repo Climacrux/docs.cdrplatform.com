@@ -1,7 +1,9 @@
 ---
-title: Working with a diverse set of removal partners
+title: Partnering with companies removing CO₂
 description: CDR Platform connects your business to a portfolio of reputable carbon dioxide removers.
 ---
+
+## A diverse set of partners
 
 We work with reputable partners using a variety of processes to create negative emissions. Currently each method has one partner that delivers the CDR for you.
 
@@ -13,9 +15,7 @@ More detailed information can be found in our docs for the [removal timeline](/d
 
 ---
 
-## Running Tide
-
-PLACEHOLDER LOGO
+### Running Tide
 
 Method: [Kelp sinking (Ocean based method)](/docs/removal-method#kelp-sinking)
 
@@ -25,9 +25,7 @@ Grows natural kelp forests in the ocean that capture CO₂ as part of photosynth
 
 ---
 
-## Charm Industrial
-
-PLACEHOLDER LOGO
+### Charm Industrial
 
 Method: [Bio-oil underground injection](/docs/removal-method#bio-oil-underground-injection)
 
@@ -37,9 +35,7 @@ Heats waste bio-mass to very high temperatures without oxygen (pyrolysis) turnin
 
 ---
 
-## Climeworks
-
-PLACEHOLDER LOGO
+### Climeworks
 
 Method: [Direct air capture and storage](/docs/removal-method#direct-air-capture-and-storage-dacs)
 
@@ -49,9 +45,7 @@ Uses large fans and filters to capture carbon dioxide in Iceland before pumping 
 
 ---
 
-## Eden Reforestation
-
-PLACEHOLDER LOGO
+### Eden Reforestation
 
 Method: [Forestation](/docs/removal-method#forestation)
 
@@ -61,9 +55,7 @@ Plants trees and restores forests around the world helping rejuvenate natural ec
 
 ---
 
-## greenSand
-
-PLACEHOLDER LOGO
+### greenSand
 
 Method: [Enhanced weathering (Olivine sand distribution)](/docs/removal-method#enhanced-weathering-olivine-distribution)
 
