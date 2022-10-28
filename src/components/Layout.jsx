@@ -23,7 +23,7 @@ const navigation = [
     links: [
       { title: 'Organisation', href: '/docs/organisation' },
       {
-        title: 'Authentication and Security',
+        title: 'Authentication and security',
         href: '/docs/authentication-and-security',
       },
       { title: 'Pricing and billing', href: '/docs/pricing-and-billing' },

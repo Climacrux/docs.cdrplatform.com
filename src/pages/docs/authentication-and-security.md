@@ -8,7 +8,7 @@ description: The CDR Platform uses API keys to authenticate. Find out how to gen
 To access the API you need to have a valid (not revoked or expired) API key that is associated to an [organisation](/docs/organisation). These API keys must be added with every request and serve two purposes:
 
 1. They ensure only authenticated users can access the API.
-1. When making a CDR purchase request they associate the request with organisation that owns the API key.
+1. When making a CDR purchase request they associate the request with the organisation that owns the API key.
 
 ---
 
