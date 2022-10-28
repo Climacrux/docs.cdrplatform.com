@@ -13,7 +13,7 @@ description: Climacrux values transparency and aims to share as much information
 
 ## Carbon removal purchases
 
-Climacrux publishes all of their carbon removal purchases from their partners so they can be verified by yourself or other third parties. A full list can be found in this [google sheet](https://docs.google.com/spreadsheets/d/11ajdfvSHyK3pb_X0GhpAso1wS0iw8BYpa86EtTG6QEY/edit).
+We - Climacrux LLC - publishes all of our carbon removal purchases from our partners so they can be verified by yourself or other third parties. A full list can be found in this [google sheet](https://docs.google.com/spreadsheets/d/11ajdfvSHyK3pb_X0GhpAso1wS0iw8BYpa86EtTG6QEY/edit).
 
 ### Example
 
