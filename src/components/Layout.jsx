@@ -5,6 +5,7 @@ import clsx from 'clsx'
 
 import { Hero } from '@/components/Hero'
 import { NewsletterInput } from '@/components/NewsletterInput'
+import { ContactForm } from '@/components/ContactForm'
 import { Logo, Logomark } from '@/components/Logo'
 import { MobileNavigation } from '@/components/MobileNavigation'
 import { Navigation } from '@/components/Navigation'
@@ -160,6 +161,7 @@ function useTableOfContents(tableOfContents) {
 export function Layout({ children, title, tableOfContents }) {
   let router = useRouter()
   let isHomePage = router.pathname === '/'
+  let isContactPage = router.pathname === '/contact-us'
   let allLinks = navigation.flatMap((section) => section.links)
   let linkIndex = allLinks.findIndex((link) => link.href === router.pathname)
   let previousPage = allLinks[linkIndex - 1]
@@ -214,6 +216,7 @@ export function Layout({ children, title, tableOfContents }) {
               </header>
             )}
             <Prose>{children}</Prose>
+            {isContactPage && <ContactForm />}
             <NewsletterInput />
           </article>
           <dl className="mt-12 flex border-t border-slate-200 pt-6 dark:border-slate-800">

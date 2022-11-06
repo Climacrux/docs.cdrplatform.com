@@ -1,3 +1,5 @@
+import { TallyForm } from './TallyForm'
+
 const social = [
   {
     name: 'Twitter',
@@ -100,6 +102,10 @@ const NewsletterInput = () => {
                   </button>
                 </div>
               </form>
+              <TallyForm
+                title="Newsletter Form"
+                tallySrc="https://tally.so/embed/3Ek5VA?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
+              />
             </div>
           </div>
         </div>
