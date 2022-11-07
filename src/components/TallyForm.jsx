@@ -22,9 +22,9 @@ const TallyForm = (props) => {
   return (
     <iframe
       data-tally-src={props.tallySrc}
-      className={props.className}
+      className={props.className + ' aspect-auto w-full'}
       width="100%"
-      height="100%"
+      height={props.height || '100%'}
       frameBorder="0"
       marginHeight="0"
       marginWidth="0"
