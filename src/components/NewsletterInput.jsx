@@ -81,31 +81,16 @@ const NewsletterInput = () => {
                   ))}
                 </div>
               </div>
-              <form action="#" className="mt-8 sm:mx-auto sm:flex sm:max-w-lg">
-                <div className="min-w-0 flex-1">
-                  <label htmlFor="cta-email" className="sr-only">
-                    Email address
-                  </label>
-                  <input
-                    id="cta-email"
-                    type="email"
-                    className="block w-full rounded-full border border-transparent px-5 py-3 text-sm text-gray-900 placeholder-gray-500 shadow-sm focus:border-transparent focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-slate-600"
-                    placeholder="Enter your email"
-                  />
-                </div>
-                <div className="mt-4 sm:mt-0 sm:ml-3">
-                  <button
-                    type="submit"
-                    className="block w-full rounded-full bg-sky-300 px-5 py-3 py-2 px-4 text-center text-sm font-semibold text-slate-900 hover:bg-sky-200 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-300/50 active:bg-sky-500 sm:px-10"
-                  >
-                    Get updates
-                  </button>
-                </div>
-              </form>
               <TallyForm
+                className="mt-8"
                 title="Newsletter Form"
                 tallySrc="https://tally.so/embed/3Ek5VA?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
               />
+              <p className="prose text-slate-400 prose-a:font-semibold prose-a:text-sky-400 prose-a:no-underline prose-a:shadow-[inset_0_calc(-1*var(--tw-prose-underline-size,2px))_0_0_var(--tw-prose-underline,theme(colors.sky.800))] hover:prose-a:[--tw-prose-underline-size:6px]">
+                By signing up you agree to the processing of your data as
+                specified in our <a href="#">Privacy Policy</a> including - but
+                not limited to - receiving the Climacrux LLC newsletter.
+              </p>
             </div>
           </div>
         </div>
