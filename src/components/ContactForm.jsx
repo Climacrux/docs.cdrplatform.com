@@ -7,6 +7,7 @@ const ContactForm = () => {
       title="Contact Form"
       tallySrc="https://tally.so/embed/mJ1l0X?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
       height="300px"
+      className="mt-8"
     />
   )
 }
