@@ -49,6 +49,7 @@ const navigation = [
         title: 'Submit a GitHub issue',
         href: '/help-and-support/submit-an-issue',
       },
+      { title: 'Questions & Answers', href: '/help-and-support/faq' },
     ],
   },
   {
