@@ -56,6 +56,8 @@ const navigation = [
     links: [
       { title: 'About Us', href: '/about-us' },
       { title: 'Carbon removal for individuals', href: '/carbon-removed' },
+      { title: 'Terms and Conditions', href: '/terms-and-conditions' },
+      { title: 'Privacy Policy', href: '/privacy-policy' },
     ],
   },
 ]
