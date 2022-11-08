@@ -97,17 +97,3 @@ Realistically if you're asking this question this product isn't for you. But yes
 Increased CO₂ (+ other greenhouse gases) in the atmosphere are trapping heat, raising the temperature of the earth and causing incredible damage to the natural world around us that we depend on.
 
 We're not here to convince you of this fact - there are plenty resources available to do that - but we hope you do continue to see what's evolving around you and begin to accept the fact that climate change is real and that you will need to adapt your behaviour to deal with it.
-
----
-
-## Fact debunking
-
-### The richest X% cause Y% of emissions
-
-### China is the leading emitter
-
-### Trees will save us, we don't need the rest
-
-### Just 100 corporations account for 70% of emissions
-
-### The term 'carbon footprint' is a marketing ploy from B.P.
