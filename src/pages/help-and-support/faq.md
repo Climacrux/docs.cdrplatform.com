@@ -6,6 +6,10 @@ title: Frequently asked questions
 
 ### Is this just carbon credits?
 
+No.
+
+---
+
 ## Technology
 
 ### Is this on the blockchain?
