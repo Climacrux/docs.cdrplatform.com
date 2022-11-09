@@ -7,11 +7,19 @@ description: Answering common questions on climate change, carbon dioxide remova
 
 ### How do I know my CO₂ is actually removed?
 
+Our approach is to provide as much transparency as we can. This includes publishing the purchases that we make from our partners and we are currently working on giving you complete traceability from your order with Climacrux LLC to the removal with our partner. We'll let you know as soon as this is available.
+
 ### What partners do you use?
+
+_Information on our partners is available on our [removal partners](/docs/removal-partner) page and we encourage you to look there for the most up-to-date info._
+
+Are you interested in becoming our partner? Please fill out [this form](https://partner-application.climacrux.com/) and we would love to have your long-term carbon storage on our platform.
 
 ### Is this just carbon credits?
 
-No.
+No - this is CO₂ capture and removal with the aim to actively reduce atmospheric levels. Carbon credits are reductions in emissions elsewhere - often in developing countries. While carbon credits meant well, we believe that now they are beginning to do more harm than good.
+
+And we are not the only ones: [Bloomberg (video)](https://www.youtube.com/watch?v=20xMbGkEIQI), [Greenpeace](https://www.reuters.com/business/sustainable-business/reuters-impact-greenpeace-calls-end-carbon-offsets-2021-10-06/) and others have been questioning the benefits, uncovering carbon credit scams and calling for the end of "meaningless offsets".
 
 ### Can I be "net-zero" with this?
 
@@ -22,6 +30,16 @@ Quick recap: "net-zero" refers to there being a result of zero emissions in the 
 i.e. if you emit one tonne of carbon dioxide, you must remove that one tonne again so the net result is zero emissions.
 
 You cannot reduce emissions elsewhere and have the same result as your emissions are still out there.
+
+**Note:** A net-zero claim or goal is very different to actually meeting it. We define net-zero by the following criteria:
+
+- Setting a net-zero goal (e.g. 2030);
+- Actively reducing your produced emissions (e.g. less flying, less meat-eating, increased renewable energy usage);
+- Removing and long-term storing any unavoidable emissions;
+- Regular reports on progress towards goal (e.g. every year, check on target to meet goals and adjust accordingly);
+- Ideally publishing your findings (e.g. promote your company sustainability reporting or write a blog about your personal progress);
+
+A net-zero goal without emissions reductions and regular reporting on action taken means nothing.
 
 ---
 
@@ -58,7 +76,11 @@ _We do not currently remove ourselves however we partner with a portfolio of par
 
 ### Aren't "the rich"/"China"/"corporations" causing all the problems?
 
-We're sorry to tell you but this is often an easy-way-out argument.
+We're sorry to tell you but this is often an easy-way-out argument. Yes there are some groups that are more responsible than others. However that doesn't excuse anybody from taking action.
+
+### We need societal change.
+
+Correct, there has to be a fundamental shift in societal perspective to support a more sustainable future. This does not just happen over night and will require individual and group action. If you're looking for what you can do to help accelerate this process we've [added some ideas](#what-else-can-i-do-to-help-the-environment) below.
 
 ### This is just an excuse to continue emitting, right?
 
@@ -70,11 +92,24 @@ However we can do both at the same time and we have chosen to help accelerate th
 
 ### But this is just greenwashing?
 
+There are some that will claim that "net-zero" and carbon removal are green washing, but we strongly disagree.
+
+Greenwashing is giving a false illusion that you are doing something sustainable or for the environment. Even more so if the sustainable aspect is promoted to overshadow other damaging practices.
+
+However taking action to understand, reduce and remove your emissions is not greenwashing. It is the only thing we can collectively do to adopt a more sustainable future.
+
 ---
 
 ## Miscellaneous
 
 ### What else can I do to help the environment?
+
+There are lots of things you can do for the environment. Some have a cost, others do not. In no particular order we have listed a few ideas here:
+
+- Inform yourself and others on climate change, good and bad actions and climate policy in your country's government;
+- Reduce your emissions where possible;
+- Vote for politicians who support a sustainable future (and do not take fossil fuel lobby money);
+- Join and support a climate movement;
 
 ### Aren't there other problems humanity is facing?
 
@@ -83,6 +118,8 @@ Yes - sadly. There are a multitude of environmental problems that humanity is fa
 We encourage you to research and support as many ways to help the environment as you can. (This doesn't have to be financial - see below).
 
 ### I have no money - what can I do?
+
+We understand that carbon removal is a "luxury good" at this time but we're happy that you want to do something for the environment. Why not have a look at [some of our suggestions](#what-else-can-i-do-to-help-the-environment) above.
 
 ### Why so expensive?
 
