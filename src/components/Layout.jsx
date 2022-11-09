@@ -11,6 +11,7 @@ import { MobileNavigation } from '@/components/MobileNavigation'
 import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
 import { ThemeSelector } from '@/components/ThemeSelector'
+import CanonicalURL from './CanonicalURL'
 
 const navigation = [
   {
@@ -190,6 +191,8 @@ export function Layout({ children, title, tableOfContents }) {
 
   return (
     <>
+      <CanonicalURL />
+
       <Header navigation={navigation} />
 
       {isHomePage && <Hero />}
