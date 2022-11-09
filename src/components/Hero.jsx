@@ -47,7 +47,6 @@ export function Hero() {
               alt=""
               width={530}
               height={530}
-              unoptimized
               priority
             />
             <div className="relative">
