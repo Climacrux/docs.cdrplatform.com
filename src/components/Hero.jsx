@@ -9,7 +9,8 @@ import blurCyanImage from '@/images/blur-cyan.png'
 import blurIndigoImage from '@/images/blur-indigo.png'
 
 const codeLanguage = 'shell'
-const code = `http POST https://api.cdrplatform.com/v1/cdr/ \\
+const code = `$ echo "Lets remove 100kg of CO₂ with trees and bio-oil"
+$ http POST https://api.cdrplatform.com/v1/cdr/ \\
   'Authorization:Api-Key {{ your_api_key }}' \\
   currency=usd \\
   weight_unit=kg \\
@@ -54,7 +55,8 @@ export function Hero() {
                 An API to remove carbon dioxide.
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
-                Reach your net-zero goals by integrating CO₂ removal directly into your business.
+                Reach your net-zero goals by integrating CO₂ removal directly
+                into your business.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
                 <Button href="/docs/getting-started">Get started</Button>
