@@ -79,7 +79,6 @@ export function Hero() {
                 alt=""
                 width={530}
                 height={530}
-                unoptimized
                 priority
               />
               <Image
@@ -88,7 +87,6 @@ export function Hero() {
                 alt=""
                 width={567}
                 height={567}
-                unoptimized
                 priority
               />
               <div className="absolute inset-0 rounded-2xl bg-gradient-to-tr from-sky-300 via-sky-300/70 to-blue-300 opacity-10 blur-lg" />
