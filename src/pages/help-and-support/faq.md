@@ -117,15 +117,15 @@ Yes - sadly. There are a multitude of environmental problems that humanity is fa
 
 We encourage you to research and support as many ways to help the environment as you can. (This doesn't have to be financial - see below).
 
-### I have no money - what can I do?
-
-We understand that carbon removal is a "luxury good" at this time but we're happy that you want to do something for the environment. Why not have a look at [some of our suggestions](#what-else-can-i-do-to-help-the-environment) above.
-
 ### Why so expensive?
 
 Our prices are predominantly set by the price of the carbon dioxide removal method (as we only add a small margin on top). These prices are higher than your typical "carbon credit" prices because they are actually capturing and removing CO₂.
 
 Think of it this way: It's easier (and therefore cheaper...) to not burn a piece of wood rather than to reverse the process of burning it.
+
+### I have no money - what can I do?
+
+We understand that carbon removal is a "luxury good" at this time but we're happy that you want to do something for the environment. Why not have a look at [some of our suggestions](#what-else-can-i-do-to-help-the-environment) above.
 
 ### Is climate change even real?
 
