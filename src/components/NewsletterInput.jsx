@@ -89,7 +89,7 @@ const NewsletterInput = () => {
               />
               <p className="prose text-slate-400 prose-a:font-semibold prose-a:text-sky-400 prose-a:no-underline prose-a:shadow-[inset_0_calc(-1*var(--tw-prose-underline-size,2px))_0_0_var(--tw-prose-underline,theme(colors.sky.800))] hover:prose-a:[--tw-prose-underline-size:6px]">
                 By signing up you agree to the processing of your data as
-                specified in our{' '}
+                specified in our
                 <Link href="/privacy-policy">Privacy Policy</Link>
                 including - but not limited to - receiving the Climacrux LLC
                 newsletter.
