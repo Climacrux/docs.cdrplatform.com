@@ -1,4 +1,3 @@
-import { useEffect } from 'react'
 import { TallyForm } from './TallyForm'
 
 const ContactForm = () => {
