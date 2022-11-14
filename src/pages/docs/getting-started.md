@@ -9,6 +9,8 @@ Learn how to use our CDR Platform and start purchasing carbon dioxide removal in
 
 {% quick-link title="Open API schema" icon="plugins" href="/docs/open-api-schema" description="Access a Swagger or Redoc UI to browse our API powered by the OpenAPI specification." /%}
 
+{% quick-link title="Get an API key" icon="theming" href="https://api.cdrplatform.com/org/settings/api-keys/" description="To make requests you will need an API key. Generate test and production keys under your settings section." /%}
+
 {% /quick-links %}
 
 ---
